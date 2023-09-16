@@ -1,0 +1,94 @@
+article.card.border_wine-color.card_recipes-width.p-0.m-4.col-12.col-md-4 {
+    width: auto;
+}
+
+.imagem-carrossel-um {
+    object-fit: cover;
+    object-position: 0 80%;
+    height: 400px;
+}
+
+.imagem-carrossel-dois {
+    object-fit: cover;
+    height: 400px;
+}
+
+.fonte-titulo {
+    font-family: 'Pacifico', cursive;
+}
+
+.card_recipes-width {
+    max-width: 25rem;
+}
+
+.img-recipes {
+    height: 200px;
+    object-fit: cover;
+}
+
+.wine-color {
+    color: #ffffff !important;
+}
+
+.button_wine-color {
+    background-color: darkred;
+    color: white; 
+}
+
+.button_wine-color:hover {
+    background-color: rgba(139, 0, 0, 0.699);
+    color: white; 
+}
+
+.border_wine-color {
+    border-color: darkred;
+}
+
+.btn-modalf {
+    background-color: black;
+    color: white;
+}
+
+.btn-modalf:hover {
+    background-color: rgba(0, 0, 0, 0.699);
+    color: white;
+}
+
+.btn-modale {
+    background-color: darkred;
+    color: white;
+}
+
+.btn-modale:hover {
+    background-color: rgba(139, 0, 0, 0.699);
+    color: white;
+}
+
+.cor-especial {
+    color: darkred;
+}
+ 
+footer {
+    font-weight: bold;
+}
+
+.text-light {
+    text-decoration: none;
+}
+
+.thumb-redondo {
+    border-radius:50%; 
+    width:250px; 
+    height:250px; 
+    object-fit:cover; 
+    object-position: 0 60%; 
+  }
+  
+  .texto-cor-especial {
+    color: #8D0606;
+  }
+  
+  .borda-cor-especial {
+    border-color: #8D0606;
+  }
+  
